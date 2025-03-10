@@ -8,15 +8,6 @@ The project is divided into the following key sections:
 3. Classification of video titles using large language models (LLM).
 4. Visualization and analysis of results.
 
-## Members
-| **Name**| **Major**| **University**|
-|-|-|-|
-| Huynh Ha Anh Thu      | Data Science  | University of Science (VNUHCM) |
-| Nguyen Ngoc Bao Han   | Data Science  | University of Science (VNUHCM) |
-| Chiem Huynh Giao      | Data Science  | University of Science (VNUHCM) |
-| Kieu Thi Ngoc Vui     | Data Science  | University of Science (VNUHCM) |
-
-
 ## **System Requirements and Installation**
 
 To run this project, you will need to install the following software and dependencies:
@@ -44,3 +35,10 @@ To run this project, you will need to install the following software and depende
 | hypothesis_testing          | Source code for testing the hypothesis using collected data.|
 | report                      | Documented reports and presentations summarizing the project findings. |
 | setup                       | Contains the environment setup files and dependencies required to run. |
+## Members
+| **Name**| **Major**| **University**|
+|-|-|-|
+| Huynh Ha Anh Thu      | Data Science  | University of Science (VNUHCM) |
+| Nguyen Ngoc Bao Han   | Data Science  | University of Science (VNUHCM) |
+| Chiem Huynh Giao      | Data Science  | University of Science (VNUHCM) |
+| Kieu Thi Ngoc Vui     | Data Science  | University of Science (VNUHCM) |
