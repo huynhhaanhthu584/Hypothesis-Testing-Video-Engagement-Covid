@@ -28,10 +28,12 @@ To run this project, you will need to install the following software and depende
 
 ## **Project Structure**
 
-| **Folder**                  | **Description**                                              |
-|-----------------------------|--------------------------------------------------------------|
+| **File**                    | **Description**                                                         |
+|-----------------------------|-------------------------------------------------------------------------|
 | crawl_video_data            | Source code for crawling data from the BaoThanhNien channel on YouTube. |
-| llm_video_title_classifier  | Source code for classifying data using LLMs. |
+| video_data                  | Result of crawl_video_data which have title,views,likes of a video      |
+| llm_video_title_classifier  | Source code for classifying data using LLMs.                            |
+| final_data                  | Result of classification                                                |
 | hypothesis_testing          | Source code for testing the hypothesis using collected data.|
 | report                      | Documented reports and presentations summarizing the project findings. |
 | setup                       | Contains the environment setup files and dependencies required to run. |
